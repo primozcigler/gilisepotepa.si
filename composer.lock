@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8cd6da60104ad93bb818d09ffb5184bf",
-    "content-hash": "f2b01bf8f31edd635f4aa53ae4735de2",
+    "hash": "14de8b9becbfaedb161fa871fd07dd33",
+    "content-hash": "50e40defd2b312bb75b700f9c9254afe",
     "packages": [
         {
             "name": "composer/installers",
@@ -411,6 +411,86 @@
                 "environment"
             ],
             "time": "2016-09-01 10:05:43"
+        },
+        {
+            "name": "wpackagist-plugin/advanced-custom-fields",
+            "version": "5.6.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/advanced-custom-fields/",
+                "reference": "tags/5.6.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/advanced-custom-fields.5.6.5.zip",
+                "reference": "tags/5.6.5",
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/advanced-custom-fields/"
+        },
+        {
+            "name": "wpackagist-plugin/extra-user-details",
+            "version": "0.4.3.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/extra-user-details/",
+                "reference": "tags/0.4.3.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/extra-user-details.0.4.3.1.zip",
+                "reference": "tags/0.4.3.1",
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/extra-user-details/"
+        },
+        {
+            "name": "wpackagist-plugin/proteusthemes-mailchimp-widget",
+            "version": "1.0.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/proteusthemes-mailchimp-widget/",
+                "reference": "tags/1.0.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/proteusthemes-mailchimp-widget.1.0.3.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/proteusthemes-mailchimp-widget/"
+        },
+        {
+            "name": "wpackagist-plugin/siteorigin-panels",
+            "version": "2.5.15",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/siteorigin-panels/",
+                "reference": "tags/2.5.15"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/siteorigin-panels.2.5.15.zip",
+                "reference": "tags/2.5.15",
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/siteorigin-panels/"
         }
     ],
     "packages-dev": [

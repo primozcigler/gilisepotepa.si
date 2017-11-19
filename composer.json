@@ -52,7 +52,11 @@
     "johnpbloch/wordpress": "^4.9.0",
     "oscarotero/env": "^1.1.0",
     "proteusthemes/readable": "2.1.2",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",
+    "wpackagist-plugin/advanced-custom-fields": "^5.6",
+    "wpackagist-plugin/siteorigin-panels": "^2.5",
+    "wpackagist-plugin/extra-user-details": "0.4.3.1",
+    "wpackagist-plugin/proteusthemes-mailchimp-widget": "^1.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
