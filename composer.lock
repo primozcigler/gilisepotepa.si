@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ba181ac08ad9557e38237cd3e611e545",
-    "content-hash": "2e012429f02c7ebb73b91cd26d65c2c9",
+    "hash": "7e01b5e7a77a8d37d66b3b52984bfc16",
+    "content-hash": "0bc188d4c073b23fe8ceeec01082ea96",
     "packages": [
         {
             "name": "composer/installers",
@@ -493,6 +493,26 @@
             "homepage": "https://wordpress.org/plugins/siteorigin-panels/"
         },
         {
+            "name": "wpackagist-plugin/so-widgets-bundle",
+            "version": "1.11.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/so-widgets-bundle/",
+                "reference": "tags/1.11.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.11.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/so-widgets-bundle/"
+        },
+        {
             "name": "wpackagist-plugin/wordpress-seo",
             "version": "5.8",
             "source": {
@@ -503,7 +523,7 @@
             "dist": {
                 "type": "zip",
                 "url": "https://downloads.wordpress.org/plugin/wordpress-seo.5.8.zip",
-                "reference": null,
+                "reference": "tags/5.8",
                 "shasum": null
             },
             "require": {
