@@ -4,7 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "eee131786cda09ac1bcc8f96ad78be77",
+    "hash": "8cd6da60104ad93bb818d09ffb5184bf",
+    "content-hash": "f2b01bf8f31edd635f4aa53ae4735de2",
     "packages": [
         {
             "name": "composer/installers",
@@ -292,6 +293,17 @@
                 "env"
             ],
             "time": "2017-07-17 20:41:59"
+        },
+        {
+            "name": "proteusthemes/readable",
+            "version": "2.1.2",
+            "dist": {
+                "type": "zip",
+                "url": "http://artifacts.proteusthemes.com/theme-releases/other/readable-v2-1-2.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "wordpress-theme"
         },
         {
             "name": "roots/wp-password-bcrypt",
