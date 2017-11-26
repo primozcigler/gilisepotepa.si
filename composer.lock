@@ -474,16 +474,16 @@
         },
         {
             "name": "wpackagist-plugin/siteorigin-panels",
-            "version": "2.5.15",
+            "version": "2.5.16",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/siteorigin-panels/",
-                "reference": "tags/2.5.15"
+                "reference": "tags/2.5.16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/siteorigin-panels.2.5.15.zip",
-                "reference": "tags/2.5.15",
+                "url": "https://downloads.wordpress.org/plugin/siteorigin-panels.2.5.16.zip",
+                "reference": null,
                 "shasum": null
             },
             "require": {
@@ -494,15 +494,15 @@
         },
         {
             "name": "wpackagist-plugin/so-widgets-bundle",
-            "version": "1.11.0",
+            "version": "1.11.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/so-widgets-bundle/",
-                "reference": "tags/1.11.0"
+                "reference": "tags/1.11.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.11.0.zip",
+                "url": "https://downloads.wordpress.org/plugin/so-widgets-bundle.1.11.1.zip",
                 "reference": null,
                 "shasum": null
             },
