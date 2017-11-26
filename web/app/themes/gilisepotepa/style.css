@@ -10,3 +10,8 @@ Version:     1.0.0
 
 /* add custom CSS code bellow */
 
+.trip-meta-data__spacer {
+	display: inline-block;
+	margin-right: 10px;
+	width: 28px;
+}
